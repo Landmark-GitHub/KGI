@@ -1,0 +1,2 @@
+Table Name,File Name,Portfolio value,End Line available,Start Line available,Number of wins,Number of matched trades,Number of transactions,Sum of Unrealized P/L,Sum of %Unrealized P/L,Sum of Realized P/L,Maximum value,Minimum value,Win rate,Calmar Ratio,Relative Drawdown,Maximum Drawdown,%Return
+Summary,Daily_Ticks.csv,38416549280.90001,38416549280.90001,36495721816.855,197095,29454,197095,1920827464.0450008,194813.87037164823,0.0,351658525.0,1.8,100.0,,,,5.263157894736858
